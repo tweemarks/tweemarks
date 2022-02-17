@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**tweemarks/tweemarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tweemarks
 
-Here are some ideas to get you started:
+Twitter has a great quality of content, but unfortunately there's no any option to save all the valuable tweets in folders and search them when needed. 
+Tweemarks solve's the problem. With the power of Telegram Bot you can save tweets with ease.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Site is Live at ✨
+
+Login to [tweemarks.tk](https://tweemarks.tk) and start saving tweets by creating custom categories.
+
+
+## Authors
+
+- [@pratikpakhale](https://www.github.com/pratikpakhale)
+
+
+## Future Updates
+
+We're currently working on a whole new user experience powered with React! Stay Tuned for a lot more features.
